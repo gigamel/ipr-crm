@@ -13,4 +13,4 @@
 
 ## Прототип ##
 
-![Прототип](https://github.com/gigamel/ipr-crm/blob/main/tmo/prototype.jpg)
+![alt text](https://github.com/gigamel/ipr-crm/blob/main/tmp/prototype.jpg)
